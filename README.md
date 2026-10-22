@@ -1,3 +1,5 @@
+> **Earlier version of the public site, kept for the record.** The live site at [coreyalejandro.com](https://coreyalejandro.com) is built from newer source. This repository shows how the site developed; some pages here contain drafting placeholders that the live site does not.
+
 # coreyalejandro.com — refactored portfolio
 
 A complete, deployable static site that integrates 33 enhancements into the actual structure of the Living Constitution portfolio. **Statically-deployable, no backend, fully client-side interactive.**
